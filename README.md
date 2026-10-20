@@ -6,9 +6,8 @@
 <br/>
 
 <div align="center">
-  <!-- Dynamic GitHub Stats (Replace 'YOUR_USERNAME' with your actual github username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moayadai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moayadai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <br/>
@@ -29,20 +28,4 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=00D2FF" />
   <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
-</div>
-
-<br/>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <!-- 
-    The GitHub Snake Animation will appear here once you set up the GitHub Action.
-    For now, it acts as a clean visual spacer.
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
