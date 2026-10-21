@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation;AI+Architecture;Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation+Architect;Production-Ready+AI+Solutions" alt="Typing banner" />
 </div>
 
 <div align="center">
@@ -18,15 +18,15 @@
 
 ## 👋 About Me
 
-I build intelligent systems that connect AI, infrastructure, and real-world automation.
+I design and build intelligent systems that connect AI, infrastructure, and real-world automation.
 
-My focus includes:
+My work focuses on:
 - Local LLM orchestration and agentic workflows
-- Scalable AI infrastructure
-- Computer vision and ML-powered products
+- Scalable AI infrastructure and deployment patterns
+- Computer vision and ML-powered product experiences
 - High-performance automation and operational systems
 
-I work at the intersection of engineering, systems thinking, and applied AI — turning ideas into reliable, production-ready solutions.
+I work at the intersection of engineering, systems thinking, and applied AI — transforming ideas into reliable, production-ready solutions.
 
 ---
 
@@ -64,7 +64,7 @@ I work at the intersection of engineering, systems thinking, and applied AI — 
 - Local-first AI agents and orchestration systems
 - Workflow automation for intelligent operations
 - Infrastructure for rapid experimentation and deployment
-- AI-powered experiences with strong scalability and performance
+- AI-powered experiences built for performance and scale
 - End-to-end technical solutions from prototype to production
 
 ---
@@ -72,15 +72,15 @@ I work at the intersection of engineering, systems thinking, and applied AI — 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moayadai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moayadai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moayadai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moayadai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🚀 Current Focus
 
-Building AI-driven systems for founders, teams, and products that need practical intelligence at scale.
+Building practical AI systems for founders, teams, and products that need real intelligence at scale.
 
 ---
 
@@ -89,4 +89,10 @@ Building AI-driven systems for founders, teams, and products that need practical
 - AI system design and architecture
 - LLM infrastructure and automation
 - Computer vision and intelligent workflows
-- Strategic technical collaborations
+- Strategic technical collaboration
+
+---
+
+<p align="center">
+  <i>Building systems that make AI useful, reliable, and scalable.</i>
+</p>
