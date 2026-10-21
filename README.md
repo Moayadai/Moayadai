@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation+Architect;Production-Ready+AI+Solutions" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation+Architect;Production-Ready+AI+Solutions" alt="AI Systems Engineer" />
 </div>
 
-<div align="center">
-  <h2>Systems & AI Architecture Engineer</h2>
-  <p><i>Designing scalable AI systems, local LLM orchestration, and production-ready automation.</i></p>
-</div>
+<h1 align="center">Moayad Al-Khalili</h1>
+<h3 align="center">Systems & AI Architecture Engineer</h3>
+<p align="center">
+  <i>Designing scalable AI systems, local LLM orchestration, and production-ready automation.</i>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Systems-0D1117?style=for-the-badge&logo=googlebrain&logoColor=8B5CF6" />
