@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation+Architect;Computer+Vision+Engineer;Founder+of+OuraTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=820&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation;AI+Architecture;Scalable+Systems" />
 </div>
 
 <div align="center">
@@ -90,9 +90,3 @@ Building AI-driven systems for founders, teams, and products that need practical
 - LLM infrastructure and automation
 - Computer vision and intelligent workflows
 - Strategic technical collaborations
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moayadai/Moayadai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moayadai/Moayadai/output/github-contribution-grid-snake-light.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Moayadai/Moayadai/output/github-contribution-grid-snake-dark.svg">
-</picture>
