@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+Infrastructure+Builder;Automation+Architect;Production-Ready+AI+Solutions" alt="AI Systems Engineer" />
 </div>
 
-<h1 align="center"> Hi my name is Moayad </h1>
+<h1 align="center"> Hi devs 👋 </h1>
 <h3 align="center">Systems & AI Architecture Engineer</h3>
 <p align="center">
   <i>Designing scalable AI systems, local LLM orchestration, and production-ready automation.</i>
